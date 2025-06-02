@@ -1,4 +1,4 @@
-# Deployment of an AI Spam Detection App
+# Deployment of a Tigerrepo
 
 ## Overview
 This will walk you through the steps to set up and deploy an AI spam detection application on an AWS EC2 instance. This app was written in Python (Flask). The app will run on a production-ready server using Gunicorn.
